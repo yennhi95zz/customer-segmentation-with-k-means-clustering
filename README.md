@@ -1,6 +1,5 @@
 # Customer Segmentation with K-means Clustering
 
-Unraveling the Basics of K-Means Clustering
 This repository contains code examples and a blog post about K-means clustering. K-means clustering is a machine learning technique used to group data points into clusters based on their similarity. It's a popular unsupervised learning algorithm and can be used for a wide range of applications, from customer segmentation to image compression.
 
 # Table of Contents
@@ -32,7 +31,7 @@ The notebook includes the following sections:
 - Performing K-means clustering
 - Visualizing the clusters
 - Data storytelling
-- 
+
 The Python code examples demonstrate how K-means clustering can be used to perform customer segmentation and how the results can be visualized and used to gain insights.
 
 # 4. Contributing
